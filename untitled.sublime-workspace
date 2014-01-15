@@ -1,0 +1,1344 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sek",
+				"sek"
+			],
+			[
+				"$sce",
+				"$sce"
+			],
+			[
+				"error",
+				"errorObject"
+			],
+			[
+				"message",
+				"message"
+			],
+			[
+				"$scope",
+				"$scope"
+			],
+			[
+				"Error",
+				"Error"
+			],
+			[
+				"angu",
+				"angular-route"
+			],
+			[
+				"right",
+				"right"
+			],
+			[
+				"p",
+				"pris"
+			],
+			[
+				"awardpink",
+				"awardpinkhover"
+			],
+			[
+				"N",
+				"nextText"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"drop",
+				"openDropdown"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"footer",
+				"footer	Tag"
+			],
+			[
+				"box",
+				"box-sizing"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"img",
+				"imgsrc"
+			],
+			[
+				"time",
+				"timelineQuoteData"
+			],
+			[
+				"timeline",
+				"timeline"
+			],
+			[
+				"left",
+				"leftPx"
+			],
+			[
+				"year",
+				"yearCount"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 335,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 139,
+				"line_ending": "Unix",
+				"name": "console.log('Main.js online and running..');"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 370.0,
+		"selected_items":
+		[
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"proje",
+				"Project: Save As"
+			],
+			[
+				"set syntax",
+				"Set Syntax: LESS"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"user",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"settings",
+				"Preferences: Settings - User"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"the",
+				"Themr: List themes"
+			],
+			[
+				"themr",
+				"Themr: List themes"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"set syntax js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"set syntaxhtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"razor",
+				"Set Syntax: Razor"
+			],
+			[
+				"asp",
+				"Set Syntax: HTML (ASP)"
+			],
+			[
+				"as",
+				"Set Syntax: ASP"
+			],
+			[
+				"raz",
+				"Set Syntax: Razor"
+			],
+			[
+				"set syntax asp",
+				"Set Syntax: ASP"
+			],
+			[
+				"set syntax ruby on",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"set syntax sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"set syntax sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"set syntax css",
+				"Set Syntax: CSS"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": true,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/carlmorner/Documents/Privat/Utvecklingsplan",
+		"/Users/carlmorner/Documents/Playground/boilerplate_lp/index.html",
+		"/Users/carlmorner/Documents/Playground/boilerplate_lp/less/main.less",
+		"/Users/carlmorner/Documents/Playground/boilerplate_lp/package.json",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/scss/modules/_dropdown.scss",
+		"/Users/carlmorner/Documents/todo.TODO",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/views/partials/box_create-customized-exercise.html",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/js/directives/sectionclose.js",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/views/partials/box_exercises_lists.html",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/js/factories/exercise.js",
+		"/Users/carlmorner/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/carlmorner/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/carlmorner/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/Gruntfile.js",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/navigation.html",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/js/controllers/exerciseListsController.js",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/js/controllers/chooseController.js",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/scss/modules/_button.scss",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/scss/_base.scss",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/scss/modules/_forms.scss",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/js/directives/keynavigator.js",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/js/factories/student.js",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/js/controllers/createStudentController.js",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/teacher-loggedin.html",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/teacher-login.html",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/testChoose.html",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/testSort.html",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/testWrite.html",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/student-login.html",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/student-loggedin.html",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/student-loggedin-exercises.html",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/index.html",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/exerciseSoundsplit.html",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/exercise.html",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/views/partials/box_create-student.html",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/js/directives/columncontainer.js",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/bower.json",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/dist/exercise.html",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/js/directives/tap.js",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/scss/modules/_column-container.scss",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/js/directives/fake-checkbox.js",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/scss/modules/_list.scss",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/js/directives/dropdown.js",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/views/partials/box_my-students.html",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/js/app.js",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/js/controllers/testChooseController.js",
+		"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app/js/controllers/spoonController.js",
+		"/Users/carlmorner/Documents/Lexia/LexiaDemoBugg/src/app/scripts/controllers/tests/spoonController.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/scripts/tests/controllers/spoonController.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/scripts/menus/controllers/exerciseListController.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/scripts/shared/services/error.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/scripts/shared/services/api.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/scripts/menus/controllers/testListController.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/elev.html",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/index.html",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/scripts/app-participant.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/scripts/tests/controllers/testListController.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/scripts/menus/controllers/testResultDetailController.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/scripts/menus/controllers/testResultController.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/scripts/shared/directives/user-message.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/scripts/menus/controllers/loginController.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/scripts/menus/directives/assign-tests.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/scripts/menus/directives/close-help.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/scripts/menus/directives/fake-checkbox.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/scripts/app-menus.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/participant-login.html",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/sass/menus/modules/_tests.scss",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/views/menus/partials/login-participant.html",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/lib/routes.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/index.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/scripts/tests/controllers/testController.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/scripts/init.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/views/tests/partials/write.html",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/scripts/tests/controllers/sortController.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/scripts/tests/directives/lextestor.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/test/spec/directives/audioplayer.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/views/tests/index.html",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/admin-login.html",
+		"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/Gruntfile.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/scripts/controllers/tests/testListController.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/scripts/services/counter.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/scripts/services/api.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/scripts/translations.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/scripts/services/testResource.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/scripts/services/userInput.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/test/spec/services/ApiService.test.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/scripts/app.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/todo.TODO",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/scripts/directives/doubletap.js",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/.editorconfig",
+		"/Users/carlmorner/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG",
+		"/Users/carlmorner/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/carlmorner/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/views/ui/lextestor.html",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/views/ui/testNavigation.html",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/views/ui/testFooter.html",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/app/views/tests/test.html",
+		"/Users/carlmorner/Documents/Lexia/Frontend/src/lib/database.js",
+		"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/views/partials/box_tests.html",
+		"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/views/partials/box_my-groups.html",
+		"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/student-login.html",
+		"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/.sass-cache/8535b24e016de34349cae7d4da8c3388948c3906/_columns.scssc",
+		"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/scss/modules/_box.scss",
+		"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/scss/modules/_column-container.scss",
+		"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/views/partials/box_my-students.html",
+		"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/views/partials/header_teacher.html",
+		"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/views/partials/header_student.html",
+		"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/views/partials/header.html",
+		"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/views/partials/landing-student.html",
+		"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/navigation.html",
+		"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/login-landing_student.html",
+		"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/login-landing_teacher.html",
+		"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/views/partials/landing_teacher.html",
+		"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/views/partials/login-student.html",
+		"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/js/directives/tabs.js",
+		"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/teacher-login.html",
+		"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/bower.json",
+		"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/index.html",
+		"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/views/partials/box_assigned-tests.html",
+		"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/js/directives/columncontainer.js",
+		"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/views/partials/testlist_student.html",
+		"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/scss/settings/_variables.scss",
+		"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/scss/_grid.scss",
+		"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/js/factories/test.js",
+		"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/css/main.css",
+		"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/config.rb",
+		"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/.gitignore",
+		"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/js/directives/sectionlink.js"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/carlmorner/Documents/Lexia/Prototype_Lexia/trunk/app",
+			"/Users/carlmorner/Documents/Lexia/Frontend/src/app/",
+			"/Users/carlmorner/Documents/Lexia/Frontend/src/app/scripts",
+			"/Users/carlmorner/Documents/Lexia/Frontend/src/app",
+			"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/",
+			"/Users/carlmorner/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/scss",
+			"/Users/carlmorner/Documents/newforma/source/css,/Users/carlmorner/Documents/newforma/source",
+			"/Users/carlmorner/Documents/newforma/source/css",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rgb",
+			"');\n",
+			"toggleElement",
+			"togglElement",
+			"style",
+			"Exercise",
+			"exercise",
+			"title",
+			"escription),",
+			"ng-model",
+			".fi-check",
+			".with-checkbox",
+			"select",
+			"group",
+			"(description)",
+			"description",
+			"(description)",
+			"row",
+			"skapa anpassad övning",
+			"tap=\"",
+			"transform",
+			"creat",
+			"toggle-",
+			"fake-chec",
+			".participant",
+			"no-assign",
+			"&.student",
+			"student",
+			"true",
+			"Help",
+			"help",
+			"ng-controller",
+			"helpController",
+			"script",
+			">\n",
+			"$timeout",
+			"$parse",
+			"apiService",
+			"apiServier",
+			"ApiService.",
+			"ApiService.participant",
+			"$apply",
+			"errorUtils",
+			"Error.checkToken",
+			"$scope",
+			"$rootScope",
+			"broadcast",
+			"emit",
+			"script",
+			"column",
+			"tests.html",
+			"ng-app",
+			"console.log",
+			"ApiService",
+			"console.log('Errorobject'",
+			"Error",
+			"participant-testlist",
+			".test-item",
+			"testResources",
+			"currentItem",
+			"sound",
+			"interactionSound",
+			"testResource",
+			"navigat",
+			"navigate",
+			"#",
+			"scripts",
+			"This",
+			"task",
+			"ruler",
+			"FatherController",
+			"LOADING",
+			"hämta noterings",
+			"hämta noteringsblad",
+			"hämta",
+			"hämta noteringsblad",
+			".column-navigation",
+			".columns",
+			"columns",
+			"<h1>Lexia/Provia</h1>",
+			"Lexia/Provia",
+			"column-navigation",
+			"app-header",
+			"tabnavigation",
+			".close-help",
+			"liste-item",
+			"class=\"list-item",
+			".list-item",
+			"action",
+			"touch",
+			"show",
+			"sh",
+			".visible",
+			"build",
+			"input",
+			"fullsize",
+			"span",
+			"border-radius",
+			"tilldelade test",
+			"span",
+			"list-toggle=\"tab-active\"",
+			"href=\"#\"",
+			"student",
+			"fi-arrow-up",
+			"fi-arrow-left",
+			"solid-box",
+			"$dimmed-bg",
+			"h2",
+			"awards",
+			"$neongreen",
+			"$awardpink",
+			"$awardpinkhover",
+			"$hejsan",
+			"$awardpink",
+			"kategori1",
+			"button",
+			">\n",
+			"/img/",
+			"webfonts",
+			"webfonts/272852_0_0.eot",
+			";\n",
+			".",
+			"placeholderwoman",
+			"inputwrap",
+			"h3",
+			";\n",
+			">\n",
+			".staff-container"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$themecolor2",
+			"$themecolor2-lighter",
+			"$themecolor2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 335,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								258,
+								258
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 139,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								139,
+								139
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_name": "console.log('Main.js online and running..');",
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close"
+							],
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"word_separators": "./\\\\()\\\"\\'-:,.;<>~!@#%^&*|+=[]{}`~?"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			],
+			[
+				2,
+				0,
+				3,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.33,
+			0.66,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"boilerplate_lp/index.html"
+			],
+			[
+				"dropdown",
+				"js/directives/dropdown.js"
+			],
+			[
+				"drop",
+				"scss/modules/_dropdown.scss"
+			],
+			[
+				"dropdwn",
+				"scss/modules/_dropdown.scss"
+			],
+			[
+				"create",
+				"views/partials/box_create-customized-exercise.html"
+			],
+			[
+				"exercise",
+				"js/controllers/exerciseListsController.js"
+			],
+			[
+				"factories",
+				"js/factories/student.js"
+			],
+			[
+				"column",
+				"js/directives/columncontainer.js"
+			],
+			[
+				"box_create",
+				"views/partials/box_create-student.html"
+			],
+			[
+				"box_exer",
+				"views/partials/box_exercises_lists.html"
+			],
+			[
+				"exerciselist",
+				"js/controllers/exerciseListsController.js"
+			],
+			[
+				"box_my",
+				"views/partials/box_my-students.html"
+			],
+			[
+				"box_crea",
+				"views/partials/box_create-student.html"
+			],
+			[
+				"grunt",
+				"Gruntfile.js"
+			],
+			[
+				"studentco",
+				"js/controllers/createStudentController.js"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"key",
+				"js/directives/keynavigator.js"
+			],
+			[
+				"testwi",
+				"testWrite.html"
+			],
+			[
+				"testcho",
+				"testChoose.html"
+			],
+			[
+				"keyna",
+				"js/directives/keynavigator.js"
+			],
+			[
+				"tap",
+				"js/directives/tap.js"
+			],
+			[
+				"colm",
+				"js/directives/columncontainer.js"
+			],
+			[
+				"section",
+				"js/directives/sectionclose.js"
+			],
+			[
+				"box",
+				"scss/modules/_box.scss"
+			],
+			[
+				"base",
+				"scss/_base.scss"
+			],
+			[
+				"teacher",
+				"teacher-loggedin.html"
+			],
+			[
+				"test",
+				"testWrite.html"
+			],
+			[
+				"teacher-loign",
+				"teacher-login.html"
+			],
+			[
+				"teacher-logged",
+				"teacher-loggedin.html"
+			],
+			[
+				"student-login",
+				"student-login.html"
+			],
+			[
+				"naviga",
+				"navigation.html"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"exer",
+				"exercise.html"
+			],
+			[
+				"teac",
+				"teacher-loggedin.html"
+			],
+			[
+				"form",
+				"scss/modules/_forms.scss"
+			],
+			[
+				"fake",
+				"js/directives/fake-checkbox.js"
+			],
+			[
+				"my",
+				"views/partials/box_my-students.html"
+			],
+			[
+				"forms",
+				"scss/modules/_forms.scss"
+			],
+			[
+				"list",
+				"scss/modules/_list.scss"
+			],
+			[
+				"app",
+				"js/app.js"
+			],
+			[
+				"button",
+				"scss/modules/_button.scss"
+			],
+			[
+				"dro",
+				"scss/modules/_dropdown.scss"
+			],
+			[
+				"choosec",
+				"js/controllers/chooseController.js"
+			],
+			[
+				"choo",
+				"js/controllers/testChooseController.js"
+			],
+			[
+				"sortcontro",
+				"app/scripts/controllers/tests/sortController.js"
+			],
+			[
+				"double",
+				"app/scripts/directives/doubletap.js"
+			],
+			[
+				"sortcontr",
+				"app/scripts/controllers/tests/sortController.js"
+			],
+			[
+				"error",
+				"src/app/scripts/shared/services/error.js"
+			],
+			[
+				"logincontr",
+				"src/app/scripts/menus/controllers/loginController.js"
+			],
+			[
+				"findpar",
+				"src/app/scripts/menus/controllers/findParticipantController.js"
+			],
+			[
+				"findgrou",
+				"src/app/scripts/menus/controllers/findGroupController.js"
+			],
+			[
+				"menus/exerciselistc",
+				"src/app/scripts/menus/controllers/exerciseListController.js"
+			],
+			[
+				"admincontrol",
+				"src/app/scripts/menus/controllers/adminController.js"
+			],
+			[
+				"api",
+				"src/app/scripts/shared/services/api.js"
+			],
+			[
+				"login",
+				"src/app/scripts/menus/controllers/loginController.js"
+			],
+			[
+				"testlist",
+				"src/app/scripts/tests/controllers/testListController.js"
+			],
+			[
+				"testlistcontroller",
+				"src/app/scripts/menus/controllers/testListController.js"
+			],
+			[
+				"logincon",
+				"src/app/scripts/menus/controllers/loginController.js"
+			],
+			[
+				"elev.html",
+				"src/app/elev.html"
+			],
+			[
+				"index.html",
+				"src/app/index.html"
+			],
+			[
+				"app-",
+				"src/app/scripts/app-participant.js"
+			],
+			[
+				"logincontrol",
+				"src/app/scripts/menus/controllers/loginController.js"
+			],
+			[
+				"participantde",
+				"src/app/scripts/menus/controllers/participantDetailController.js"
+			],
+			[
+				"testresultdetail",
+				"src/app/scripts/menus/controllers/testResultDetailController.js"
+			],
+			[
+				"testlistcontr",
+				"src/app/scripts/tests/controllers/testListController.js"
+			],
+			[
+				"testlistcon",
+				"src/app/scripts/tests/controllers/testListController.js"
+			],
+			[
+				"testlistc",
+				"src/app/scripts/menus/controllers/testListController.js"
+			],
+			[
+				"app/scripts/test/con",
+				"src/app/scripts/tests/controllers/testListController.js"
+			],
+			[
+				"testlistconotr",
+				"src/app/scripts/tests/controllers/testListController.js"
+			],
+			[
+				"testresualt",
+				"src/app/scripts/menus/controllers/testResultDetailController.js"
+			],
+			[
+				"testresultcon",
+				"src/app/scripts/menus/controllers/testResultController.js"
+			],
+			[
+				"participantdetail",
+				"src/app/scripts/menus/controllers/participantDetailController.js"
+			],
+			[
+				"elev",
+				"src/app/elev.html"
+			],
+			[
+				"usermess",
+				"src/app/scripts/shared/directives/user-message.js"
+			],
+			[
+				"admincon",
+				"src/app/scripts/menus/controllers/adminController.js"
+			],
+			[
+				"app-part",
+				"src/app/scripts/app-participant.js"
+			],
+			[
+				"app-menus",
+				"src/app/scripts/app-menus.js"
+			],
+			[
+				"route",
+				"src/lib/routes.js"
+			],
+			[
+				"loginco",
+				"src/app/scripts/menus/controllers/loginController.js"
+			],
+			[
+				"audio",
+				"src/app/scripts/tests/directives/audioplayer.js"
+			],
+			[
+				"testcon",
+				"src/app/scripts/tests/controllers/testController.js"
+			],
+			[
+				"testc",
+				"src/app/scripts/tests/controllers/testController.js"
+			],
+			[
+				"testcontr",
+				"src/app/scripts/tests/controllers/testController.js"
+			],
+			[
+				"routes",
+				"lib/routes.js"
+			],
+			[
+				"coutner",
+				"app/scripts/services/counter.js"
+			],
+			[
+				"apierror",
+				"app/scripts/services/apiErrorHandler.js"
+			],
+			[
+				"timetrack",
+				"app/scripts/services/timetrack.js"
+			],
+			[
+				"translation",
+				"app/scripts/translations.js"
+			],
+			[
+				"testre",
+				"app/scripts/services/testResource.js"
+			],
+			[
+				"userin",
+				"app/scripts/services/userInput.js"
+			],
+			[
+				"counter",
+				"app/scripts/services/counter.js"
+			],
+			[
+				"db",
+				"lib/database.js"
+			],
+			[
+				"apis",
+				"test/spec/services/ApiService.test.js"
+			],
+			[
+				"doubletap",
+				"app/scripts/directives/doubletap.js"
+			],
+			[
+				"edit",
+				".editorconfig"
+			],
+			[
+				"testcontro",
+				"app/scripts/controllers/tests/testController.js"
+			],
+			[
+				"testnavigation",
+				"app/views/ui/testNavigation.html"
+			],
+			[
+				"testfooter",
+				"app/views/ui/testFooter.html"
+			],
+			[
+				"lex",
+				"app/views/ui/lextestor.html"
+			],
+			[
+				"views/test/",
+				"app/views/tests/test.html"
+			],
+			[
+				"listcon",
+				"app/scripts/controllers/tests/testListController.js"
+			],
+			[
+				"/views/tests",
+				"app/views/tests/index.html"
+			],
+			[
+				"testlistco",
+				"app/scripts/controllers/tests/testListController.js"
+			],
+			[
+				"choosecontr",
+				"app/scripts/controllers/tests/chooseController.js"
+			],
+			[
+				"init",
+				"app/scripts/init.js"
+			],
+			[
+				"test.html",
+				"app/views/tests/test.html"
+			],
+			[
+				"boxtest",
+				"Lexia_Provia_Prototype/trunk/app/views/partials/box_tests.html"
+			],
+			[
+				"box_tests",
+				"Lexia_Provia_Prototype/trunk/app/views/partials/box_tests.html"
+			],
+			[
+				"box_assigned",
+				"Lexia_Provia_Prototype/trunk/app/views/partials/box_assigned-tests.html"
+			],
+			[
+				"my-",
+				"Lexia_Provia_Prototype/trunk/app/views/partials/box_my-students.html"
+			],
+			[
+				"student",
+				"Lexia_Provia_Prototype/trunk/app/student-login.html"
+			],
+			[
+				"header",
+				"Lexia_Provia_Prototype/trunk/app/views/partials/header_student.html"
+			],
+			[
+				"_column-con",
+				"Lexia_Provia_Prototype/trunk/app/scss/modules/_column-container.scss"
+			],
+			[
+				"columns",
+				"Lexia_Provia_Prototype/trunk/app/scss/modules/_column-container.scss"
+			],
+			[
+				"column-container",
+				"Lexia_Provia_Prototype/trunk/app/scss/modules/_column-container.scss"
+			],
+			[
+				"help",
+				"Lexia_Provia_Prototype/trunk/app/scss/modules/_help.scss"
+			],
+			[
+				"box-a",
+				"Lexia_Provia_Prototype/trunk/app/views/partials/box_assigned-tests.html"
+			],
+			[
+				"loginstun",
+				"Lexia_Provia_Prototype/trunk/app/views/partials/login-student.html"
+			],
+			[
+				"landing",
+				"Lexia_Provia_Prototype/trunk/app/views/partials/landing-student.html"
+			],
+			[
+				"land",
+				"Lexia_Provia_Prototype/trunk/app/views/partials/landing-student.html"
+			],
+			[
+				"tabs",
+				"Lexia_Provia_Prototype/trunk/app/js/directives/tabs.js"
+			],
+			[
+				"controllers/",
+				"Lexia_Provia_Prototype/trunk/app/js/controllers/exerciseController.js"
+			],
+			[
+				"st",
+				"~/Documents/Lexia/Prototyp/Lexia_Provia_Prototype/trunk/app/student-login.html"
+			],
+			[
+				"studen",
+				"Lexia_Provia_Prototype/trunk/app/views/partials/landing_student.html"
+			],
+			[
+				"stu",
+				"Lexia_Provia_Prototype/trunk/app/login-landing_student.html"
+			],
+			[
+				"login-",
+				"Lexia_Provia_Prototype/trunk/app/login-landing_student.html"
+			],
+			[
+				"col",
+				"Lexia_Provia_Prototype/trunk/app/js/directives/columncontainer.js"
+			],
+			[
+				"tea",
+				"Lexia_Provia_Prototype/trunk/app/views/partials/login-teacher.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

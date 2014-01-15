@@ -1,0 +1,14 @@
+{
+  "name": "boilerplate_lp",
+  "version": "0.0.0",
+  "description": "Boilerplate for a javascript webb application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carl Mörner",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "less": "~1.6.1"
+  }
+}

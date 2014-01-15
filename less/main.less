@@ -1,0 +1,20 @@
+@bold-blue: rgb(17, 42, 118);
+@blood-red: rgb(245, 31, 0);
+
+@pcontent: '2014';
+@gate: 'pcontent';
+
+body {
+	background: @bold-blue;
+	font-size: 16px;
+	font-family: arial;
+}
+
+h1 {
+	color: @blood-red;
+	font-size: 4em;
+}
+
+p:before {
+	content: @@gate;
+}
