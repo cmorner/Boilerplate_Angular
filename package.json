@@ -8,11 +8,8 @@
   },
   "author": "Carl Mörner",
   "license": "BSD-2-Clause",
-  "dependencies": {
-    "less": "~1.6.1"
-  },
+  "dependencies": {},
   "devDependencies": {
     "grunt": "~0.4.2",
-    "grunt-contrib-less": "~0.9.0"
   }
 }
