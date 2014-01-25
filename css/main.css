@@ -1,12 +1,2 @@
-body {
-  background: #112a76;
-  font-size: 16px;
-  font-family: arial;
-}
-h1 {
-  color: #f51f00;
-  font-size: 4em;
-}
-p:before {
-  content: 'By Carl';
-}
+.test {
+  color: blue; }
